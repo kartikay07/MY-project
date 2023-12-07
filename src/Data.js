@@ -36,7 +36,7 @@ export const projects = [
   export const testimonials = [
     {
       quote:
-        "Kartikay Pandey is a talented professional in field of web designing.He copmlited our website in record time,Thanks a lot for that",
+        "Kartikay Pandey is a talented professional in field of web designing.He completed our website in record time,Thanks a lot for that",
       image: "srijan.jpg",
       name: "Srijan",
       company: "Orangekaty",
