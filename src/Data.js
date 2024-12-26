@@ -45,7 +45,7 @@ export const projects = [
       quote:
       "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away” - Antonie De-Saint Exupery",
       image: "katyayan.jpg",
-      name: "Katyayan",
+      name: "Kartikay Pandey",
       company: "Sweet Potato Enterprise",
     },
   ];
